@@ -1,8 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package uuid="naocontrollerserver-89d2c4">
+<package version="3.0.0" uuid="naocontrollerserver-byqishanshi">
  <names>
   <name lang="en_US">NAOControllerServer</name>
  </names>
+ <descriptions>
+  <description lang="en_US">3.0.0</description>
+ </descriptions>
  <descriptionLanguages>
   <language>en_US</language>
  </descriptionLanguages>
