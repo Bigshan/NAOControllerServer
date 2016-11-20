@@ -5,7 +5,12 @@
         <BehaviorDescription name="behavior" src="NAOControllerServer" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
-    <Resources />
+    <Resources>
+        <File name="icon" src="icon.png" />
+    </Resources>
     <Topics />
-    <IgnoredPaths />
+    <IgnoredPaths>
+        <Path src=".DS_Store" />
+        <Path src="icon.png" />
+    </IgnoredPaths>
 </Package>
